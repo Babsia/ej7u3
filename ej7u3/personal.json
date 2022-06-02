@@ -1,0 +1,82 @@
+{
+    "__class__": "Lista",
+    "personas": [
+        {
+            "__class__": "docente",
+            "__atributos__": {
+                "cuil": "20-43123315-1",
+                "apellido": "Benemerito",
+                "nom": "Ignacio",
+                "sueldo": 500000.0,
+                "antiguedad": 5,
+                "carrera": "LCC",
+                "cargo": "Exclusivo",
+                "catedra": "Informatica"
+            }
+        },
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "123123213",
+                "apellido": "perez",
+                "nom": "pedro",
+                "sueldo": 24000.0,
+                "antiguedad": 5,
+                "area": "data",
+                "tipo": "teorica"
+            }
+        },
+        {
+            "__class__": "Papoyo",
+            "__atributos__": {
+                "cuil": "1-423324234-2",
+                "apellido": "Pe\u00f1a",
+                "nom": "Juan",
+                "sueldo": 50000000.0,
+                "antiguedad": 5,
+                "categoria": 21
+            }
+        },
+        {
+            "__class__": "docenteinvestigador",
+            "__atributos__": {
+                "cuil": "40-22432423-1",
+                "apellido": "Babsia",
+                "nom": "Santiago",
+                "sueldo": 60000000.0,
+                "antiguedad": 5,
+                "area": "Data science",
+                "tipo": "Teorica",
+                "carrera": "LCC",
+                "cargo": "Semiexclusivo",
+                "catedra": "Informatica",
+                "categoria": "V",
+                "importe": 700000.0
+            }
+        },
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "21-54545454-0",
+                "apellido": "Urizar",
+                "nom": "Santiago",
+                "sueldo": 900000.0,
+                "antiguedad": 3,
+                "area": "Hacking",
+                "tipo": "Practica"
+            }
+        },
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "213124",
+                "apellido": "pena",
+                "nom": "juan",
+                "sueldo": 32442.0,
+                "antiguedad": 4,
+                "area": "data",
+                "tipo": "teorica"
+            }
+        }
+    ]
+}
